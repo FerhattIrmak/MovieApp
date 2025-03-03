@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571736213262",
+    "project_id": "movie-app-bb5f0",
+    "storage_bucket": "movie-app-bb5f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571736213262:android:111d42dcd9251be5a2f95f",
+        "android_client_info": {
+          "package_name": "com.ferhat.movieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3yenNmFbLmNuovRlQm7veyMQ14JQKl_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
