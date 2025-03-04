@@ -16,7 +16,8 @@ MovieApp, Jetpack Compose kullanarak geliştirdiğim bir film uygulamasıdır. B
 - **MVVM Mimari Deseni** - Daha düzenli ve yönetilebilir kod yapısı
 
 ## Mevcut Özellikler
-- Şık ve kullanıcı dostu giriş ekranı
+ -Kullanıcıyı karşılayan bir Splash giriş ekranı
+- Şık ve kullanıcı dostu Log in ekranı
 
 ## Planlanan Özellikler
 - Film listesi ve detay sayfası
