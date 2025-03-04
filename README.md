@@ -1,5 +1,10 @@
 # MovieApp
 
+
+![Image](https://github.com/user-attachments/assets/5506ff31-c559-4903-b1c3-6bfffbb801d4)
+![Image](https://github.com/user-attachments/assets/1af90dfb-43db-4bee-b939-7e987a58b60a)
+
+
 MovieApp, Jetpack Compose kullanarak geliştirdiğim bir film uygulamasıdır. Bu proje, Compose ile modern ve dinamik bir UI oluşturmayı öğrenme sürecimin bir parçasıdır.
 
 ## Proje Durumu
@@ -29,9 +34,6 @@ Projeyi kendi cihazınızda çalıştırmak için:
 Geliştirme sürecinde öğrendiklerimi paylaşmak ve toplulukla birlikte büyümek için geri bildirimlere açığım. Öneri ve katkılarınızı bekliyorum!
 
 ---
-**Not:** Proje geliştikçe README güncellenecektir.
+**Not:** Proje ve bilgim geliştikçe Proje ve  README güncellenecektir.
 
 
-
-![Image](https://github.com/user-attachments/assets/5506ff31-c559-4903-b1c3-6bfffbb801d4)
-![Image](https://github.com/user-attachments/assets/1af90dfb-43db-4bee-b939-7e987a58b60a)
