@@ -14,6 +14,7 @@ MovieApp, Jetpack Compose kullanarak geliştirdiğim bir film uygulamasıdır. B
 - **Jetpack Compose** - Modern UI geliştirme
 - **Kotlin** - Android uygulama geliştirme
 - **MVVM Mimari Deseni** - Daha düzenli ve yönetilebilir kod yapısı
+- - **Firebase** -Kullanıcı hesabı oluşturma yönetme 
 
 ## Mevcut Özellikler
  -Kullanıcıyı karşılayan bir Splash giriş ekranı
