@@ -36,6 +36,6 @@ Projeyi kendi cihazınızda çalıştırmak için:
 Geliştirme sürecinde öğrendiklerimi paylaşmak ve toplulukla birlikte büyümek için geri bildirimlere açığım. Öneri ve katkılarınızı bekliyorum!
 
 ---
-**Not:** Proje ve bilgim geliştikçe Proje ve  README güncellenecektir.
+**Not:** Proje  bilgim geliştikçe Proje ve  README güncellenecektir.
 
 
